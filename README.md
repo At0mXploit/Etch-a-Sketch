@@ -1,6 +1,6 @@
 # Etch-a-Sketch Project
 
-I mean honestly this is shit only doing to avoid Vibe Coding Virus. 
+I mean honestly this is shit only doing to avoid virus. 
 
 ## Local Development
 ```bash
@@ -13,4 +13,5 @@ docker-compose up
 # Using Python
 python3 -m http.server 8000
 ```
+
 
